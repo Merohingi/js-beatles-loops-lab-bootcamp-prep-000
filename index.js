@@ -1,1 +1,1 @@
-function theBeatlesPlay 
+function theBeatlesPlay(arrOfMus, arrOfIns)
