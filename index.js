@@ -1,8 +1,8 @@
 
-function theBeatlesPlay(arrOfMus, arrOfIns) {
+function theBeatlesPlay(music, ins) {
   var emptyArr = [];
-  for (let i = 0; i < musicians.length; i++) {
-       emptyArr.push(musicians[i] + " plays " + instruments[i]);
+  for (let i = 0; i < music.length; i++) {
+       emptyArr.push(music[i] + " plays " + ins[i]);
   }
 return emptyArr;
 }
