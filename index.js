@@ -1,4 +1,5 @@
 
 function theBeatlesPlay(arrOfMus, arrOfIns) {
-  var
+  var emptyArr = [];
+  
 }
