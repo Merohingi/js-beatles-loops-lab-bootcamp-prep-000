@@ -8,5 +8,5 @@ return emptyArr;
 }
 
 function johnLennonFacts(array) {
-  while 
+  while (let i = 0: i)
 }
